@@ -1,2 +1,4 @@
-# Happy_new_year
-In this project, wherever you drag the cursor on the screen, there you see a fantastic view of fireworks.
+# Happy_New_Year
+
+A Pen created on CodePen.io. Original URL: [https://codepen.io/Gaur721/pen/jOJbPer](https://codepen.io/Gaur721/pen/jOJbPer).
+
